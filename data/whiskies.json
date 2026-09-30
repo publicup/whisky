@@ -1,0 +1,182 @@
+[
+  {
+    "id": "balvenie-12-doublewood",
+    "name": "발베니 12년 더블우드",
+    "category": "싱글몰트",
+    "abv": 40,
+    "priceRange": "10~20만",
+    "flavorTags": ["셰리", "바닐라", "과일"],
+    "description": "버번 오크의 부드러운 바닐라와 셰리 캐스크의 말린 과일이 차분하게 이어집니다.",
+    "pairingFood": "꿀을 곁들인 숙성 치즈와 구운 아몬드"
+  },
+  {
+    "id": "glendronach-12",
+    "name": "글렌드로낙 12년",
+    "category": "싱글몰트",
+    "abv": 43,
+    "priceRange": "10~20만",
+    "flavorTags": ["셰리", "과일", "스파이시"],
+    "description": "올로로소와 페드로 히메네스 셰리의 건포도, 다크 초콜릿, 따뜻한 향신료가 겹칩니다.",
+    "pairingFood": "다크 초콜릿과 무화과"
+  },
+  {
+    "id": "ardbeg-10",
+    "name": "아드벡 10년",
+    "category": "아일라 싱글몰트",
+    "abv": 46,
+    "priceRange": "10~20만",
+    "flavorTags": ["피트", "스파이시"],
+    "description": "강렬한 숯불 피트와 바다 내음 뒤로 레몬, 후추의 선명한 반전이 찾아옵니다.",
+    "pairingFood": "훈제 굴과 레몬"
+  },
+  {
+    "id": "talisker-10",
+    "name": "탈리스커 10년",
+    "category": "싱글몰트 (스카이섬)",
+    "abv": 45.8,
+    "priceRange": "10~20만",
+    "flavorTags": ["피트", "과일", "스파이시"],
+    "description": "해안의 짭짤함과 은은한 연기, 탈리스커 특유의 후추 같은 피니시가 특징입니다.",
+    "pairingFood": "후추를 뿌린 연어 그라브락스"
+  },
+  {
+    "id": "makers-mark",
+    "name": "메이커스 마크",
+    "category": "버번",
+    "abv": 45,
+    "priceRange": "5~10만",
+    "flavorTags": ["바닐라", "과일"],
+    "description": "밀을 사용한 매시빌의 둥근 질감 위로 바닐라, 캐러멜, 붉은 과일이 피어납니다.",
+    "pairingFood": "피칸 파이와 체다 치즈"
+  },
+  {
+    "id": "wild-turkey-101",
+    "name": "와일드 터키 101",
+    "category": "버번",
+    "abv": 50.5,
+    "priceRange": "5~10만",
+    "flavorTags": ["바닐라", "스파이시"],
+    "description": "높은 도수의 존재감과 진한 오크, 캐러멜, 계피의 길고 힘 있는 여운을 남깁니다.",
+    "pairingFood": "바비큐 립과 피클"
+  },
+  {
+    "id": "macallan-12-sherry-oak",
+    "name": "맥캘란 12년 셰리 오크",
+    "category": "싱글몰트",
+    "abv": 40,
+    "priceRange": "20만+",
+    "flavorTags": ["셰리", "과일", "스파이시"],
+    "description": "셰리 숙성의 말린 과일과 생강, 오크가 균형을 이루는 클래식한 한 잔입니다.",
+    "pairingFood": "블루 치즈와 다크 초콜릿"
+  },
+  {
+    "id": "johnnie-walker-black",
+    "name": "조니워커 블랙 라벨 12년",
+    "category": "블렌디드 스카치",
+    "abv": 40,
+    "priceRange": "5~10만",
+    "flavorTags": ["피트", "셰리", "바닐라"],
+    "description": "달콤한 과일과 바닐라를 가벼운 스모키함이 감싸는 균형 좋은 블렌드입니다.",
+    "pairingFood": "훈제 오리와 사과 처트니"
+  },
+  {
+    "id": "glenfiddich-12",
+    "name": "글렌피딕 12년",
+    "category": "싱글몰트",
+    "abv": 40,
+    "priceRange": "5~10만",
+    "flavorTags": ["과일", "바닐라"],
+    "description": "배와 풋사과의 산뜻한 향에 부드러운 바닐라가 더해지는 편안한 입문 스타일입니다.",
+    "pairingFood": "브리 치즈와 청포도"
+  },
+  {
+    "id": "glenmorangie-original-10",
+    "name": "글렌모렌지 오리지널 10년",
+    "category": "싱글몰트",
+    "abv": 40,
+    "priceRange": "5~10만",
+    "flavorTags": ["바닐라", "과일"],
+    "description": "오렌지 꽃과 복숭아, 바닐라 크림이 가볍고 우아하게 어우러집니다.",
+    "pairingFood": "레몬 타르트와 아몬드 비스킷"
+  },
+  {
+    "id": "lagavulin-16",
+    "name": "라가불린 16년",
+    "category": "아일라 싱글몰트",
+    "abv": 43,
+    "priceRange": "20만+",
+    "flavorTags": ["피트", "셰리", "스파이시"],
+    "description": "깊은 해안 피트와 말린 과일, 오크의 농밀한 층이 긴 여운을 만듭니다.",
+    "pairingFood": "다크 초콜릿과 훈제 고다"
+  },
+  {
+    "id": "buffalo-trace",
+    "name": "버팔로 트레이스",
+    "category": "버번",
+    "abv": 45,
+    "priceRange": "5~10만",
+    "flavorTags": ["바닐라", "과일"],
+    "description": "바닐라와 토피, 체리 향이 부드러운 오크와 함께 편하게 이어집니다.",
+    "pairingFood": "솔티드 캐러멜과 구운 피칸"
+  },
+  {
+    "id": "hibiki-japanese-harmony",
+    "name": "히비키 재패니즈 하모니",
+    "category": "블렌디드 재패니즈",
+    "abv": 43,
+    "priceRange": "20만+",
+    "flavorTags": ["과일", "바닐라", "스파이시"],
+    "description": "오렌지 껍질과 꿀, 은은한 향목의 향이 섬세한 균형으로 정돈됩니다.",
+    "pairingFood": "유자 향을 더한 흰살생선 카르파초"
+  },
+  {
+    "id": "chivas-regal-12",
+    "name": "시바스 리갈 12년",
+    "category": "블렌디드 스카치",
+    "abv": 40,
+    "priceRange": "5~10만",
+    "flavorTags": ["과일", "바닐라", "셰리"],
+    "description": "사과와 꿀, 헤이즐넛의 부드러운 단맛이 매끄러운 질감으로 이어집니다.",
+    "pairingFood": "로스트 치킨과 사과 샐러드"
+  },
+  {
+    "id": "highland-park-12",
+    "name": "하이랜드 파크 12년",
+    "category": "싱글몰트",
+    "abv": 40,
+    "priceRange": "10~20만",
+    "flavorTags": ["피트", "셰리", "과일"],
+    "description": "오크니의 은은한 헤더 피트와 꿀, 오렌지 향이 차분한 조화를 이룹니다.",
+    "pairingFood": "훈제 체더와 꿀에 절인 배"
+  },
+  {
+    "id": "four-roses-single-barrel",
+    "name": "포 로지스 싱글 배럴",
+    "category": "버번",
+    "abv": 50,
+    "priceRange": "10~20만",
+    "flavorTags": ["과일", "바닐라", "스파이시"],
+    "description": "잘 익은 베리와 바닐라, 호밀에서 오는 향신료가 선명하게 펼쳐집니다.",
+    "pairingFood": "블랙베리 콩포트와 숙성 체더"
+  },
+  {
+    "id": "chita-single-grain",
+    "name": "치타 싱글 그레인",
+    "category": "그레인 위스키",
+    "abv": 43,
+    "priceRange": "10~20만",
+    "flavorTags": ["바닐라", "과일"],
+    "description": "크림, 꿀, 은은한 민트가 가볍고 매끈하게 이어지는 섬세한 그레인 위스키입니다.",
+    "pairingFood": "바닐라 아이스크림과 구운 배"
+  },
+  {
+    "id": "bunnahabhain-12",
+    "name": "부나하벤 12년",
+    "category": "아일라 싱글몰트",
+    "abv": 46.3,
+    "priceRange": "10~20만",
+    "flavorTags": ["셰리", "과일", "스파이시"],
+    "description": "피트를 절제한 아일라 스타일로 견과류, 말린 과일, 바다 소금의 감칠맛을 전합니다.",
+    "pairingFood": "굴과 레몬 버터"
+  }
+]
